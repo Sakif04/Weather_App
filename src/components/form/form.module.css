@@ -1,0 +1,11 @@
+.form{
+    background-color: rgba(43, 46, 14, 0.623);
+    padding: 1rem;
+}
+.location{
+    color:rgb(255, 197, 155);
+}
+
+.weather-image{
+    height: 40rem;
+}
